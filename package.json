@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-petit-bateau",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Petit Bateau depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-petit-bateau",
+    "bon-de-reduction-petit-bateau",
+    "coupon-petit-bateau",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/petit-bateau.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-petit-bateau.git"
+  }
+}
